@@ -1,0 +1,56 @@
+.from-group{
+    margin: 15px 0px;
+    text-align: center;
+}
+.from-cont{
+    width: 500px;
+    padding: 5px;
+    outline: none;
+    border: 1px solid gray;
+    border-radius: 3px;
+}
+.from-contr{
+    width: 508px;
+    padding: 0px;
+    outline: none;
+    margin: 15px 0px;
+}
+.from-group label{
+    font-weight: bold;
+    font-variant: small-caps;
+}
+.from-group:focus{
+    background-color: lightgray;
+    box-shadow: 0 0 3px red;
+    border:1px solid yellow;
+}
+.from-cont:focus{
+    background-color: rgb(224, 255, 230);
+    box-shadow: 0 0 3px red;
+    border:1px solid yellow;
+}
+.from-but{
+    padding:8px 30px;
+    outline: none;
+    border:none;
+    border-radius: 3px;
+    font-weight: bold;
+    background-color: white;
+    color:rgb(0, 34, 255);
+    box-shadow: inset 0 0 20px rgb(221, 28, 28);
+}
+.from-but:hover{
+    color:rgb(0, 255, 30);
+    box-shadow: inset 0 0 20px rgb(255, 0, 0);
+    transform: scale(1.1);
+}
+.dangnhap{
+    height: 10px;
+    width: 511px;
+    margin: 0px auto;
+    color:white;
+}
+body{
+    background-color: lightgray;
+}
+

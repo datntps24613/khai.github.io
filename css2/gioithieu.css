@@ -1,0 +1,40 @@
+.gioithieu1{
+    text-align: center;
+    background-color:rgb(44, 42, 38);
+    margin: 0 0 auto;
+}
+.theodoi {
+    background-color: rgb(44, 42, 38);
+    text-align: center;
+    min-height: 230px;
+}
+/** khung gioi thieu **/
+.style>aside{
+    text-align: center;
+    width: 100%;
+    background-color: rgb(44, 42, 38);
+    float:left;
+    margin-bottom: 20px;
+}
+/** hiệu ứng icon phần theo dõi**/
+.icon a {
+    padding: 10px 30px;
+    color:white;
+    line-height: 30px;
+    text-decoration: none;
+    display: inline-block;
+    margin-bottom: 3px;
+    text-align: center;
+}
+.icon span.fa {
+    margin-right: 0px;
+}
+.faceb{
+    background: rgb(71, 71, 185);
+}
+.insta{
+    background:rgb(235, 144, 159);
+}
+.youtube{
+    background:red;
+}
